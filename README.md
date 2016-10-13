@@ -1,7 +1,7 @@
 go-render: A verbose recursive Go type-to-string conversion library.
 ====================================================================
 
-[![GoDoc](https://godoc.org/github.com/luci/go-render?status.svg)](https://godoc.org/github.com/luci/go-render)
+[![GoDoc](https://godoc.org/github.com/scalingdata/go-render?status.svg)](https://godoc.org/github.com/scalingdata/go-render)
 [![Build Status](https://travis-ci.org/luci/go-render.svg)](https://travis-ci.org/luci/go-render)
 
 This is not an official Google product.
@@ -63,7 +63,7 @@ Run the following to setup the code review tool and create your first review:
 
     git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git $HOME/src/depot_tools
     export PATH="$PATH:$HOME/src/depot_tools"
-    cd $GOROOT/github.com/luci/go-render
+    cd $GOROOT/github.com/scalingdata/go-render
     git checkout -b work origin/master
 
     # hack hack
